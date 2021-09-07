@@ -74,8 +74,9 @@ echo "  levels: \"*:debug\"" >> ../privatenet/eth-rpc-adaptor/config.yaml
 export GO111MODULE=on
 make install
 ````
-Now it is time to build it all so enter this command into the Ubuntu terminal and please make sure it is the same script name you used above to create the file:
+Now it is time to build it all.  We need to mark the script as exectuable and then run it in the Ubuntu terminal. Please make sure it is the same script name you used above to create the file:
 ````
+chmod +x build-theta.sh
 build-theta.sh
 ````
 
