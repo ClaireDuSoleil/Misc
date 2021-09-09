@@ -1,4 +1,8 @@
-This is a guide on how to set up a Theta Testnet on Ubuntu running on Windows 10.  First you need to set up Windows Subsystem for Linux.  Here are instructions from Microsoft on how to do that:
+This is a guide on how to set up a Theta Testnet on Ubuntu running on Windows 10. Here is a 10 minute video demo that shows these steps in action:
+
+https://youtu.be/e7LvmtNhQOk
+
+First you need to set up Windows Subsystem for Linux.  Here are instructions from Microsoft on how to do that:
 
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
